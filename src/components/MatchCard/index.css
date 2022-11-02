@@ -1,0 +1,40 @@
+/* Write your CSS here */
+.Match-card {
+  width: 27%;
+  background-color: #000000;
+  padding: 10px;
+  border-radius: 10px;
+  margin: 15px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.logo1 {
+  width: 150px;
+  height: 150px;
+}
+.head {
+  color: #ffffff;
+  font-family: 'Bree Serif';
+  font-weight: 500;
+  font-size: 25px;
+}
+.result {
+  color: #ffffff;
+  font-family: 'Bree Serif';
+  font-weight: 500;
+  font-size: 18px;
+}
+.win {
+  color: red;
+  font-size: 18px;
+  font-family: 'Bree Serif';
+  font-weight: 500;
+}
+.Lost {
+  color: green;
+  font-size: 18px;
+  font-family: 'Bree Serif';
+  font-weight: 500;
+}

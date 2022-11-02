@@ -1,0 +1,59 @@
+/* Write your CSS here */
+.card1 {
+  width: 100%;
+  background-color: #000000;
+  border-radius: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  max-height: 500px;
+}
+.main-details {
+  display: flex;
+  flex-direction: column;
+  padding-left: 20px;
+}
+.text {
+  color: #ffffff;
+  font-size: 25px;
+  font-weight: 600;
+  font-family: 'Bree Serif';
+}
+.date {
+  color: #ffffff;
+  font-size: 18px;
+  font-weight: 600;
+  font-family: 'Bree Serif';
+}
+.venue {
+  color: #ffffff;
+  font-size: 14px;
+  font-weight: 600;
+  font-family: 'Bree Serif';
+}
+.image1 {
+  width: 150px;
+  height: 150px;
+}
+.innings-container {
+  display: flex;
+  flex-direction: column;
+  padding-right: 20px;
+}
+.headings {
+  color: #ffffff;
+  font-size: 18px;
+  font-weight: 600;
+  font-family: 'Bree Serif';
+  margin: 0;
+  margin-bottom: 6px;
+}
+.answers {
+  color: #ffffff;
+  font-size: 14px;
+  font-weight: 400;
+  font-family: 'Bree Serif';
+  margin: 0px;
+  margin-bottom: 6px;
+}
